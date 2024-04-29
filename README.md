@@ -3,3 +3,12 @@ Exercícios introdutórios sobre Machine Learning feitos pelo Collab utilizando 
 
 ## Exercício 1
 Elaboração manual do dataset tendo como estudo de caso uma situação comum para identificação se um animal é um cachorro ou um porco.
+
+## Exercício 2
+Elaboração manual do dataset tendo como estudo de caso uma situação comum para identificação se um animal é um cachorro ou um porco.
+
+## Exercício 3
+Elaboração manual do dataset tendo como estudo de caso uma situação comum para identificação se um animal é um cachorro ou um porco.
+
+## Exercício 4
+Elaboração manual do dataset tendo como estudo de caso uma situação comum para identificação se um animal é um cachorro ou um porco.
